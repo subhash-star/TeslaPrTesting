@@ -1,0 +1,3 @@
+[submodule "subhash-star"]
+	path = subhash-star
+	url = https://github.com/subhash-star/subhash-star.git
